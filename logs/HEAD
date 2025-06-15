@@ -2,3 +2,4 @@
 c9424688713ea3f5336ab3652ca1fa00613f4534 0000000000000000000000000000000000000000 bcshine <60063687+bcshine@users.noreply.github.com> 1749908699 +0900	Branch: renamed refs/heads/master to refs/heads/main
 0000000000000000000000000000000000000000 c9424688713ea3f5336ab3652ca1fa00613f4534 bcshine <60063687+bcshine@users.noreply.github.com> 1749908699 +0900	Branch: renamed refs/heads/master to refs/heads/main
 c9424688713ea3f5336ab3652ca1fa00613f4534 eec956b3bae64ae54f68c2f59492c369088618fb bcshine <60063687+bcshine@users.noreply.github.com> 1749908809 +0900	commit (merge): Resolve merge conflict in README.md
+eec956b3bae64ae54f68c2f59492c369088618fb 14ee7e05e561aad5d5d64527b93738226b3e449d bcshine <60063687+bcshine@users.noreply.github.com> 1749952277 +0900	commit: Scene4 꽝 화면 개선: ggg.png 이미지와 ggg.wav 사운드로 변경, 1마리 까마귀가 3초간 좌에서 우로 이동하는 애니메이션 구현
